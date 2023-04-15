@@ -1,4 +1,4 @@
-Recently Ordered Items Add to Cart
+Recently Ordered Items Add to Cart Magento 2
 ===========
 
 **[Recently Ordered Items Add to Cart for Magento 2](https://store.ancrology.com/recently-ordered-items-add-to-cart.html/)** An extension that Magento 2 extension can be useful for customers who frequently reorder the same items, as it saves them time by allowing them to quickly add items they have ordered before to their cart, without having to search for them again.
