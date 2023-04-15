@@ -10,9 +10,9 @@ Recently Ordered Items Add to Cart Magento 2
 <ul>
 <li>Allow recently ordered items add to cart</li>
 <li>Support all types of products add to cart</li>
-<li>admin can enable/disabled for frontend</li>
+<li>Admin can enable/disabled for frontend</li>
 <li>Customer can display unique order's items / all order's items</li>
-<li>all items display as category page view with pagination</li>
+<li>All items display as category page view with pagination</li>
 </ul>
 
 ## Instalation
