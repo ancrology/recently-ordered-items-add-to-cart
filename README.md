@@ -7,6 +7,13 @@ Recently Ordered Items Add to Cart Magento 2
 
 - Overall, the customer add to cart recently ordered items extension can improve the user experience for customers and help increase sales for businesses by simplifying the reordering process.
 
+<ul>
+<li>Allow recently ordered items add to cart</li>
+<li>Support all types of products add to cart</li>
+<li>admin can enable/disabled for frontend</li>
+<li>Customer can display unique order's items / all order's items</li>
+<li>all items display as category page view with pagination</li>
+</ul>
 
 ## Instalation
 -------
