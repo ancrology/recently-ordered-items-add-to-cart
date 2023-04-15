@@ -43,6 +43,7 @@ bin/magento setup:static-content:deploy
 - reorder items for magento 2
 - magento 2 recently ordered items extension free
 - magento 2 reorder module
+- magento 2 recently add to cart order module
 
 
 **Get more [Magento 2 extensions](https://store.ancrology.com/):**
